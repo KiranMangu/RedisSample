@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "RCBkw5ugek4C+nRZpX24r7ErelDmqNBwMBDvP6/E2Q5+iw6diqcdS9RUvGRMFVpfKwZ53R/EQdCmVecqQIVDUg==",
+  "dgSpecHash": "Gjnpy+mnk8iHNpET8ziGcIqxM/KGOghTkDfO2+SqUISm3U5MddX1puiycMyfX3W8LQGRE5FEon3xhSbJN1ZnCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\91991\\source\\repos\\RedisSample\\RedisSample\\RedisSample.csproj",
+  "projectFilePath": "C:\\Users\\91991\\Kiran\\GIT\\RedisSample\\RedisSample\\RedisSample.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\91991\\.nuget\\packages\\bouncycastle.netcore\\1.8.6\\bouncycastle.netcore.1.8.6.nupkg.sha512",
     "C:\\Users\\91991\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\91991\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\91991\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
